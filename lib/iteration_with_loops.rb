@@ -16,3 +16,7 @@ def find_min_in_nested_arrays(src)
     row_index += 1
   end
 end
+
+array = [[2, 3, 4, 2, 8],
+        [3, 4, 8, 6, 2]]
+find_min_in_nested_arrays(array)
