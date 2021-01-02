@@ -16,3 +16,7 @@ def find_min_in_nested_arrays(src)
     row_index += 1 
   end
 end
+
+[1, 2, 3, 4, 5]
+[1, 2, 2, 3, 4]
+[4, 5, 2, 52]
